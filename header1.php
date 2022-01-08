@@ -5,7 +5,7 @@ include_once "includes/init.php";
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Registration</title>
+    <title>KamReikia</title>
     <script src="js/jquery-3.4.1.min.js"></script>
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap-4.4.1.js"></script>
